@@ -7,7 +7,7 @@ print(arr.size) #returns the size of the array
 a=np.arange(0,10)#returns numbers between 0to9
 print(a)
 
-arr=np.linspace(0,5,2)  #returns values between given range
+arr=np.linspace(0,5,2)  #returns values between given range 
 print(arr)
 print(arr)
 
