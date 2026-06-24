@@ -14,7 +14,7 @@ print(np.log([1,2,3]))
 print(np.sin(arr))
 
 #cos
-print(np.cos(arr))
+print(np.cos(arr)) 
 
 #absolute
 arr2=np.array([-1,3,6,-9])
