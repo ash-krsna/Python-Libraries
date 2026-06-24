@@ -4,7 +4,7 @@ arr=np.array([[1,2,3],
               [7,8,9]])
 print(arr)
 print(arr.T)       #returns transpose
-print(arr.sum(axis=0)) #returns the sum of axis 0
+print(arr.sum(axis=0)) #returns the sum of axis 0 
 print(arr.sum(axis=1))  #returns the sum of axis 1
 print(arr.ndim)  #returns the dimension of an array
 print(arr.shape)   #returns shape of an array
