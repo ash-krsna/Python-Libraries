@@ -10,4 +10,4 @@ print(new)
 arr=np.array([2,4,3,5,6])
 filter=arr%2==0
 new=arr[filter]
-print(new)
+print(new) 
