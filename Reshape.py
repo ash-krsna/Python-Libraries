@@ -9,7 +9,7 @@ print(reshaped)
 #convert multi-dimensional array into 1D array
 arr=np.array([[4,5,6],
               [9,8,7]])
-print(arr.ravel())
+print(arr.ravel()) 
 arr[0]=1
 print(arr.ravel())
 
