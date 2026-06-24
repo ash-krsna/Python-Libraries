@@ -12,7 +12,7 @@ arr=np.array([1,22,33,23],dtype=np.float64)
 print(arr.dtype)
 
 #string datatype
-str=np.array(["Hello","Hi","Bye"])
+str=np.array(["Hello","Hi","Bye"]) 
 print(str.dtype)
 
 #TYPECASTING
